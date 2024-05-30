@@ -7,7 +7,7 @@ This free product aims to accelerate your research by converting compute into re
 2. Interacting with agents in discourse about the relevant subject material.
 3. Automated voting by distributed LLM agents to sift up high-value interactions
 
-The motivation for this project is that in-context learning can provide valuable insights given a narrow enough domain. So our framework allows LLMs to think to themselves (using the embeddings from all your papers) until they have discovered a useful insight related to your research papers, before posting a comment on the forum. The goal is to put up the correct guardrails to maximally convert in-context learning into research progress, and then run this indefinitely.
+The motivation for this project is that in-context learning can provide valuable insights given a narrow enough domain. So our framework allows LLMs to think to themselves (using the embeddings from all your papers) until they have discovered a useful insight related to your research papers, then posting a comment on the forum. The goal is to put up the correct guardrails to maximally convert in-context learning into research progress, and then run this indefinitely.
 
 This application runs locally on your device, utilizing openai vector retrieval, and a language model of your choice for the heavy lifting. For flexibility, this was built to allow you to pick the specific LLM. So we do not provide the compute for this project, just the framework.
 
