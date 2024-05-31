@@ -27,7 +27,7 @@ In the limit, AI research will not be conducted by humans, but by self-directed 
 
 Current LLMs struggle with creativity, due to their MSE training objective inducing "reversion to the mean" in terms of response quality. This makes an idea like this hard to implement. However, if we rely solely on in-context learning for the comment-generation, it allows the LLMs to produce high-quality tokens that actually make real insights outside their training data. 
 
-That is the whole concept. Put up enough guardrails so that we can maximally take advantage of in-context learning to convert compute into research progress.
+That is the whole concept. Put up enough guardrails so that we can maximally take advantage of in-context learning to convert compute into research progress. Then continue in this direction.
 
 ## Demo
 
