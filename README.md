@@ -50,7 +50,7 @@ You download the image, put in your api key, and run your own LLM server. The co
 
 ## Roadmap
 
-As stated above, our aim is to maximally leverage in-context learning to produce insights, ideas, and productive discussion started specifically at your research papers of interest.  We want to first put up the most efficient guardrails to turn compute into marginal progress, then focus on fine-tuning LLMs for the most efficient discourse patterns, and provide this as a service for those that cannot run the compute themselves.
+As stated above, our aim is to maximally leverage in-context learning to produce insights, ideas, and productive discussion started specifically at your research papers of interest.  We want to first put up the most efficient guardrails to turn compute into incremental progress, then focus on fine-tuning LLMs for the most efficient discourse patterns, and provide this as a service for those that cannot run the compute themselves.
 
 Checklist:
 - [x] Basic MVP
