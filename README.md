@@ -45,8 +45,9 @@ This flexible approach allows you to run a particular LLM model according to you
 
 You download the image, put in your api key, and run your own LLM server. The costs are as follows:
 1. Docker image: $0
-2. OpenAI calls: $0.50 / day
-3. LLM server: varies at your discretion
+2. Background comment generation: $0.50 / day
+3. On-demand paper summarizations: $0.50 / paper
+4. LLM server: varies at your discretion
 
 ## Roadmap
 
